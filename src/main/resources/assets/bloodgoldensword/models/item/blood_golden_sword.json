@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bloodgoldensword:item/blood_golden_sword"
+  }
+}
